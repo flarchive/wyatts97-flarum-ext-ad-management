@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of wyatts97/flarum-ext-ad-management.** Not for installation: use [Packagist](https://packagist.org/packages/wyatts97/flarum-ext-ad-management) or the [upstream repository](https://github.com/wyatts97/flarum-ext-ad-management).
 
-**0** versions archived · Latest: [`v1.6.2`](https://github.com/flarchive/wyatts97-flarum-ext-ad-management/tree/archive/v1.6.2) · License: `MIT` · Flarum: `^2.0.0-rc.1`
+**26** versions archived · Latest: [`v1.6.2`](https://github.com/flarchive/wyatts97-flarum-ext-ad-management/tree/archive/v1.6.2) · License: `MIT` · Flarum: `^2.0.0-rc.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-05-18 | `^2.0.0-rc.1` | [Browse](https://github.com/flarchive/wyatts97-flarum-ext-ad-management/tree/archive/v1.0.0) |
+| `v1.2` | 2026-05-19 | `^2.0.0-rc.1` | [Browse](https://github.com/flarchive/wyatts97-flarum-ext-ad-management/tree/archive/v1.2) |
+| `v1.3` | 2026-05-19 | `^2.0.0-rc.1` | [Browse](https://github.com/flarchive/wyatts97-flarum-ext-ad-management/tree/archive/v1.3) |
+| `v1.4` | 2026-05-19 | `^2.0.0-rc.1` | [Browse](https://github.com/flarchive/wyatts97-flarum-ext-ad-management/tree/archive/v1.4) |
+| `v1.4.1` | 2026-05-19 | `^2.0.0-rc.1` | [Browse](https://github.com/flarchive/wyatts97-flarum-ext-ad-management/tree/archive/v1.4.1) |
+| `v1.4.2` | 2026-05-19 | `^2.0.0-rc.1` | [Browse](https://github.com/flarchive/wyatts97-flarum-ext-ad-management/tree/archive/v1.4.2) |
+| `v1.4.3` | 2026-05-19 | `^2.0.0-rc.1` | [Browse](https://github.com/flarchive/wyatts97-flarum-ext-ad-management/tree/archive/v1.4.3) |
+| `v1.4.4` | 2026-05-19 | `^2.0.0-rc.1` | [Browse](https://github.com/flarchive/wyatts97-flarum-ext-ad-management/tree/archive/v1.4.4) |
+| `v1.4.5` | 2026-05-19 | `^2.0.0-rc.1` | [Browse](https://github.com/flarchive/wyatts97-flarum-ext-ad-management/tree/archive/v1.4.5) |
+| `v1.4.6` | 2026-05-19 | `^2.0.0-rc.1` | [Browse](https://github.com/flarchive/wyatts97-flarum-ext-ad-management/tree/archive/v1.4.6) |
+
+[View all 26 versions](https://github.com/flarchive/wyatts97-flarum-ext-ad-management/tags)
 
 Catalog entry: [packages/wyatts97-flarum-ext-ad-management.json](https://github.com/flarchive/archive-index/blob/main/packages/wyatts97-flarum-ext-ad-management.json)
 
